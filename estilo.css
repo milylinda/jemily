@@ -1,0 +1,12 @@
+:root{
+    --título-principal:rgba(128, 0, 128, 0.897); 
+    --cor-do-texto:rgba(0, 0, 0, 0.856);
+    --cor-de-fundo:red;
+    --cor-do-botao:white;
+}
+body{
+background-color:var(--cor-de-fundo) ;
+}
+h1{
+    color:var(--título-principal);
+}
